@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/coder-factory-academy/cf-guidline-css/blob/master/CFA.png"></p>
+<p align="center"><img src="https://res.cloudinary.com/coder-factory/image/upload/v1496821299/Coder_Academy-05.png" width="60%"></p>
 
 
 # Required Prework for students
