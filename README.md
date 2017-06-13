@@ -9,7 +9,7 @@ Below are tutorial tools you must complete to help get an introduction to HTML/C
 ### Codecademy HTML/CSS
 
 HTML and CSS are the basic building blocks of websites. If you get through the following tutorial it will set you up for success in the Fast Track course.
-- https://www.codecademy.com/learn/web
+- https://www.codecademy.com/learn/learn-html-css
 
 ### Try Ruby
 To add another challenge you can give your first programming language a try.<br>
