@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/coder-factory/image/upload/v1496821299/Coder_Academy-05.png" width="60%"></p>
+<p align="center"><img src="https://res.cloudinary.com/coder-academy/image/upload/v1496821299/Coder_Academy-05.png" width="60%"></p>
 
 
 # Required Prework for students
